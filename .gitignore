@@ -221,3 +221,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Local extraction artifacts and generated fixture
+output/
+results/
+.cache/
+examples/sample.pdf
